@@ -1,0 +1,6 @@
+{
+  "name": "my-app",
+  "framework": "static",
+  "buildCommand": null,
+  "outputDirectory": "./public"
+}
