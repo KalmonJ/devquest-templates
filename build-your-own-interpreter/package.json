@@ -1,0 +1,14 @@
+{
+  "name": "build-your-own-interpreter",
+  "version": "1.0.0",
+  "description": "DevQuest Challenge - Build your own Interpreter",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.0"
+  }
+}
